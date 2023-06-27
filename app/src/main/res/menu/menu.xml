@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action"
+        android:icon="@drawable/menu"
+        android:title="@string/buscar"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/importar"
+                android:title="@string/importar_contactos"
+                android:icon="@drawable/importar"/>
+            <item
+                android:id="@+id/exportar"
+                android:title="@string/exportar_a_fichero"
+                android:icon="@drawable/exportar"/>
+            <item
+                android:id="@+id/exportarsd"
+                android:icon="@drawable/exportar"
+                android:title="@string/exportar_a_sd" />
+            <item
+                android:id="@+id/eliminar"
+                android:title="@string/eliminar_todos_los_contactos"
+                android:icon="@drawable/borrar"/>
+            <item
+                android:id="@+id/cerrar"
+                android:icon="@drawable/logout"
+                android:title="@string/cerrar_sesion" />
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TO03_Contactos_JAlcaraz_v3.0</string>
+    <string name="nombre_apellidos">Nombre Apellidos</string>
+    <string name="_666999666">666999666</string>
+    <string name="todo">TODO</string>
+    <string name="abAdd">Añadir</string>
+    <string name="imagen">TODO</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">eMail</string>
+    <string name="guardar">Guardar</string>
+    <string name="importar_contactos">Importar contactos</string>
+    <string name="exportar_a_fichero">Exportar a fichero</string>
+    <string name="eliminar_todos_los_contactos">Eliminar todos los contactos</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="pregunta">¿Deseas eliminar todos los contactos?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="registroseliminados">Registros eliminados</string>
+    <string name="atencion">Atención</string>
+    <string name="ibMenu">Menu_contactos</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="titulo_Add">Crear contacto</string>
+    <string name="titulo_Mod">Editar contacto</string>
+    <string name="pregunta_individual">¿Desea eliminar este contacto?</string>
+    <string name="registroeliminado">Contacto eliminado</string>
+    <string name="agenda_v2_0">Agenda v3.0</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="preferencias">Mantener sesión (PREFERENCIAS)</string>
+    <string name="buscar">Buscar</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="exportarsd">exportarSD</string>
+    <string name="exportar_a_sd">Exportar a SD</string>
+</resources>
